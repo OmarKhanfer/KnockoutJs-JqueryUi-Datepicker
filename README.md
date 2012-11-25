@@ -2,12 +2,12 @@ Knockoutjs-jQueryUi: Datepicker
 
 <h3>1- What it is?</h3>
 --------------------------
-This example will show you how to combination between knockoutjs custom-binding and jQuery-ui datepicker.
-Benefits
+This example will show you how to combine between knockoutjs custom-binding and jQuery-ui datepicker.
+
 
 <h3>2- Benifits</h3>
 --------------------------
-This example will let you add your jquery-ui datepicker code in one place add call it any time in the text field you want, 
+This example will let you add your jquery-ui datepicker code in one place instead right it many times, 
 and you can also send the <b>date options</b> you want as an object.
 
 <h3>3- License</h3>
