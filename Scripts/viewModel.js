@@ -1,7 +1,6 @@
 ﻿function viewModel() {
     var _datepicker = {
         init: function (element, valueAccessor, allBinding, viewModel, context) {
-            debugger;
             var options = {
                 showOtherMonths: true,
                 selectOtherMonths: true
