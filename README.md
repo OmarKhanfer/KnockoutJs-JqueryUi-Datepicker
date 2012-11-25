@@ -10,3 +10,4 @@ Benefits
 This example will let you add your jquery-ui datepicker code in one place add call it any time in the text field you want, 
 and you can also send the <b>date options</b> you want as an object.
 
+<a href='http://omarkhanfer.github.com/KnockoutJs-JqueryUi-Datepicker' target='_blank'>View Demo</a>
